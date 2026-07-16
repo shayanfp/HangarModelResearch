@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# GAMS temporary files
+*.gdx
+*.log
+*.lst
+results/gams_temp/
+*.t0?
+*.lxi
+*.put
+*.~*
